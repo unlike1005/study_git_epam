@@ -1,2 +1,2 @@
-# study_git_epam
-for study git in epam
+# study_in_epam
+for study in epam
